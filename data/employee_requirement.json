@@ -1,0 +1,23 @@
+{
+  "Data Analyst": {
+    "Python": 3,
+    "Data Analysis": 4,
+    "Survey Design": 3,
+    "Data Collection": 3,
+    "Statistical Analysis": 4
+  },
+  "Data Scientist": {
+    "Python": 4,
+    "Machine Learning": 4,
+    "Statistical Analysis": 4,
+    "SQL": 3,
+    "Deep Learning": 3
+  },
+  "Software Engineer": {
+    "Python": 4,
+    "SQL": 3,
+    "Data Structures": 4,
+    "System Design": 3,
+    "FastAPI": 3
+  }
+}

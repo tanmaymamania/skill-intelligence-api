@@ -1,0 +1,9 @@
+# Local Python environments and generated files
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.log
+
+# Secrets
+.env
